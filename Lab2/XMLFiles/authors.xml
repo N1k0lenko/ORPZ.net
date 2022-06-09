@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<authors>
+  <author>
+    <Id>1</Id>
+    <Name>Tetyana</Name>
+    <Surname>Torova</Surname>
+    <Organization>Clash Royale</Organization>
+  </author>
+  <author>
+    <Id>2</Id>
+    <Name>Andriy</Name>
+    <Surname>Renegadov</Surname>
+    <Organization>Natus Vincere</Organization>
+  </author>
+  <author>
+    <Id>3</Id>
+    <Name>Olexiy</Name>
+    <Surname>Fazev</Surname>
+    <Organization>Natus Vincere</Organization>
+  </author>
+  <author>
+    <Id>4</Id>
+    <Name>Yevgen</Name>
+    <Surname>Cloud</Surname>
+    <Organization>Yeet</Organization>
+  </author>
+  <author>
+    <Id>5</Id>
+    <Name>Olexandr</Name>
+    <Surname>Heroic</Surname>
+    <Organization>Clash Royale</Organization>
+  </author>
+  <author>
+    <Id>6</Id>
+    <Name>Li</Name>
+    <Surname>Leyon</Surname>
+    <Organization>Japan Co</Organization>
+  </author>
+  <author>
+    <Id>7</Id>
+    <Name>Ley</Name>
+    <Surname>Zhingzcinxon</Surname>
+    <Organization>Chinese Food</Organization>
+  </author>
+  <author>
+    <Id>8</Id>
+    <Name>Lucas</Name>
+    <Surname>Sunder</Surname>
+    <Organization>Yeet</Organization>
+  </author>
+  <author>
+    <Id>9</Id>
+    <Name>Olega</Name>
+    <Surname>Robot</Surname>
+    <Organization>Yeet</Organization>
+  </author>
+</authors>

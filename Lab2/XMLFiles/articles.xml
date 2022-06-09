@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<articles>
+  <article>
+    <Id>1</Id>
+    <ArticleName>Happy New Year</ArticleName>
+    <AuthorId>3</AuthorId>
+    <MagazineId>2</MagazineId>
+    <ArticleRelease>17.12.2021</ArticleRelease>
+  </article>
+  <article>
+    <Id>2</Id>
+    <ArticleName>Upcoming Event in CSGO</ArticleName>
+    <AuthorId>2</AuthorId>
+    <MagazineId>1</MagazineId>
+    <ArticleRelease>23.04.2022</ArticleRelease>
+  </article>
+  <article>
+    <Id>3</Id>
+    <ArticleName>Navi kicks Boombl4</ArticleName>
+    <AuthorId>1</AuthorId>
+    <MagazineId>8</MagazineId>
+    <ArticleRelease>27.05.2022</ArticleRelease>
+  </article>
+  <article>
+    <Id>4</Id>
+    <ArticleName>PariMatch has business in RB</ArticleName>
+    <AuthorId>5</AuthorId>
+    <MagazineId>3</MagazineId>
+    <ArticleRelease>01.06.2022</ArticleRelease>
+  </article>
+  <article>
+    <Id>5</Id>
+    <ArticleName>Help me</ArticleName>
+    <AuthorId>4</AuthorId>
+    <MagazineId>5</MagazineId>
+    <ArticleRelease>28.04.2003</ArticleRelease>
+  </article>
+  <article>
+    <Id>6</Id>
+    <ArticleName>XXXTENTACION DIED</ArticleName>
+    <AuthorId>7</AuthorId>
+    <MagazineId>9</MagazineId>
+    <ArticleRelease>16.02.2003</ArticleRelease>
+  </article>
+  <article>
+    <Id>7</Id>
+    <ArticleName>Clash Royale update is awful</ArticleName>
+    <AuthorId>6</AuthorId>
+    <MagazineId>7</MagazineId>
+    <ArticleRelease>01.04.2022</ArticleRelease>
+  </article>
+  <article>
+    <Id>8</Id>
+    <ArticleName>Professional motion-designer searching for a job</ArticleName>
+    <AuthorId>8</AuthorId>
+    <MagazineId>6</MagazineId>
+    <ArticleRelease>09.06.2022</ArticleRelease>
+  </article>
+  <article>
+    <Id>9</Id>
+    <ArticleName>OLX is scam</ArticleName>
+    <AuthorId>9</AuthorId>
+    <MagazineId>8</MagazineId>
+    <ArticleRelease>14.12.1982</ArticleRelease>
+  </article>
+</articles>
